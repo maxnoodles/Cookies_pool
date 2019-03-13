@@ -26,7 +26,7 @@ generator.py中GetterWeiboCookiesGenerator(CookiesGenerator), 作用是调用coo
 
 tester.py中的WeiboValidTester(ValidTester)，作用是使用requests携带cookies登录m.weibo.cn测试
 
-api中的app.run()，作用是本机的5001端口上的/random/cookies"接口随机提供一个有效的cookies
+api中的app.run()，作用是本机的5001端口上的/random/cookies接口随机提供一个有效的cookies
 
 
 
